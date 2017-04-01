@@ -1,6 +1,6 @@
 ---
 title: hexo安装配置
-date: 2014-1-8 22:40:58
+date: 2014-1-6 22:40:58
 tags: hexo
 categories: hexo
 ---
